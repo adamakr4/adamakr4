@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Adam.
+- 👀 I’m interested in Python and DYM.
